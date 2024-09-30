@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: xlm
+Version: 1.0
+Summary: Text simplification
+Author: Guillaume Lample, Alexis Conneau
+Author-email: glample@fb.com, aconneau@fb.com
